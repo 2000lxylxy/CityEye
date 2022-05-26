@@ -1,2 +1,0 @@
-# CityEye
-software compitition
